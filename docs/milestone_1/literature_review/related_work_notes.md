@@ -1,4 +1,6 @@
+# CLEAR-Face Related Work Notes
 
+---
 
 ## 1. Facial Expression Recognition Backbones & Robustness
 
@@ -228,7 +230,7 @@ Zhou, H., Huang, S., & Xu, Y. (2024). *UA-FER: Uncertainty-Aware Representation 
 **Year:** 2025  
 **Venue:** Selective Prediction Foundations Literature
 
-**What the Paper Does:** Outlines mathematics of selective prediction pairing predictor $f(x)$ with selection function $g(x) \in \{0, 1\}$, authorizing models to return empty set $\emptyset$ (abstention) if internal risk scores cross predefined thresholds.
+**What the Paper Does:** Outlines mathematics of selective prediction pairing predictor f(x) with selection function g(x) ∈ {0, 1}, authorizing models to return empty set ∅ (abstention) if internal risk scores cross predefined thresholds.
 
 **The Gap (What It Misses):** Standard selective prediction models operate on rigid binary trade-off: either force risky prediction or drop sample entirely, without providing alternative option to salvage frame through guided adjustments.
 

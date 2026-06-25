@@ -1,4 +1,8 @@
-# Comprehensive Novelty Comparison Matrix (All Papers)
+# CLEAR-Face Novelty Comparison Matrix
+
+---
+
+## Comprehensive Novelty Comparison Matrix (All Papers)
 
 | Paper | Year | Venue | Task | Method | Human-in-the-loop? | Reacquisition? | Uncertainty? | XAI? | Language Explanation? | CLEAR-Face Criterion | Gap for CLEAR-Face |
 |-------|------|-------|------|--------|:------------------:|:--------------:|:------------:|:----:|:---------------------:|----------------------|--------------------|
