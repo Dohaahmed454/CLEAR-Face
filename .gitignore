@@ -42,3 +42,49 @@ Thumbs.db
 # Logs
 logs/
 *.log
+# Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Raw/private data
+data/raw/
+data/processed/
+data/external/
+participants/
+real_faces/
+signed_consent_forms/
+private_data/
+ethics_private/
+
+# Milestone 2 generated image data
+data/milestone_2/synthetic/
+data/milestone_2/raw/
+data/milestone_2/external/
+
+# Images/videos that may contain faces
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+
+# Models and checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.pkl
+*.joblib
+
+# Logs and OS/editor files
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

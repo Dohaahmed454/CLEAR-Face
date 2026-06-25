@@ -1,0 +1,33 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Image processing and computer vision
+opencv-python
+Pillow
+albumentations
+imutils
+
+# Deep learning
+torch
+torchvision
+timm
+torchmetrics
+
+# XAI and evidence signals
+captum
+grad-cam
+mediapipe
+
+# Experiment tracking and utilities
+matplotlib
+tqdm
+PyYAML
+joblib
+psutil
+
+# Notebook support
+jupyter
+ipykernel
